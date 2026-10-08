@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#faf9f6"/>
+  <rect width="1200" height="630" fill="none" stroke="#e9eef1" stroke-width="2"/>
+  <circle cx="160" cy="200" r="72" fill="#16222d"/>
+  <text x="160" y="228" text-anchor="middle" font-family="Georgia, serif" font-size="80" fill="#ffffff">O</text>
+  <text x="270" y="170" font-family="Georgia, serif" font-size="44" fill="#16222d">Oramax Dental &amp; Maxillofacial Clinic</text>
+  <text x="270" y="225" font-family="Arial, sans-serif" font-size="30" fill="#2c7f7b">Dr. Khushal Gangwani · Oral and Maxillofacial Surgeon</text>
+  <text x="270" y="275" font-family="Arial, sans-serif" font-size="26" fill="#51687b">Specialized Oral &amp; Maxillofacial Care in Juhu, Mumbai</text>
+</svg>
